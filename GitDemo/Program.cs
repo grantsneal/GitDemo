@@ -16,9 +16,12 @@ namespace GitDemo
 
             // these changes will be stashed
 
+            // test
             // change from VS 2012
 
             // test
+
+            // test2
         }
     }
 }
