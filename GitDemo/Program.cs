@@ -15,6 +15,8 @@ namespace GitDemo
             // v1.1 changes
 
             // these changes will be stashed
+
+            // change from VS 2012
         }
     }
 }
