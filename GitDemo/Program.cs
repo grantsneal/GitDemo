@@ -11,6 +11,10 @@ namespace GitDemo
         static void Main(string[] args)
         {
             // master changes
+            // changes on main branch from VS 2010
+            // v1.1 changes
+
+            // these changes will be stashed
         }
     }
 }
